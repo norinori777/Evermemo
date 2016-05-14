@@ -1,0 +1,667 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"H",
+				"HorizonMenu"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"ran",
+				"range"
+			],
+			[
+				"get",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"ContentEdit",
+				"ContentEditableLine〔variable〕"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"string",
+				"querystring.stringify"
+			],
+			[
+				"onUpdate",
+				"onUpdateTitle"
+			],
+			[
+				"UP",
+				"UPDATE_TITLE"
+			],
+			[
+				"F",
+				"Fluxxor"
+			],
+			[
+				"Flux",
+				"FluxMixin"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"on",
+				"onClickPlus={this"
+			],
+			[
+				"C",
+				"CounterStore"
+			],
+			[
+				"getS",
+				"getState"
+			],
+			[
+				"S",
+				"StoreWatchMixin"
+			],
+			[
+				"onC",
+				"onClickMinus"
+			],
+			[
+				"cre",
+				"createClass"
+			],
+			[
+				"hi",
+				"history"
+			],
+			[
+				"scrip",
+				"script"
+			],
+			[
+				"toString",
+				"_.prototype.toString"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"time",
+				"time	<time>"
+			],
+			[
+				"c",
+				"CurrentTime.js"
+			],
+			[
+				"req",
+				"require  (function)"
+			],
+			[
+				"js",
+				"react.js"
+			],
+			[
+				"title",
+				"title	<title>"
+			],
+			[
+				"seli",
+				"serializeArray	.serializeArray()"
+			],
+			[
+				"li",
+				"listenTo"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"filter",
+				"filter	.filter()"
+			],
+			[
+				"shu",
+				"_.shuffle"
+			],
+			[
+				"_sh",
+				"_.shuffle"
+			],
+			[
+				"this",
+				"$this  (variable)"
+			],
+			[
+				"cs",
+				"cs.model.js"
+			],
+			[
+				"article",
+				"article  (variable)"
+			],
+			[
+				"update",
+				"update"
+			],
+			[
+				"b",
+				"black"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git:log",
+				"Git: Log All"
+			],
+			[
+				"git:show",
+				"Git: Show Tags"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git show",
+				"Git: Show Tags"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"Package Control: set",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: reve",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacage install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"si",
+				"Snippet: input - number"
+			],
+			[
+				"list packages",
+				"Package Control: List Packages"
+			],
+			[
+				"list package",
+				"Package Control: List Packages"
+			],
+			[
+				"install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"JSON",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 434.0
+	},
+	"console":
+	{
+		"height": 202.0,
+		"history":
+		[
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); ",
+			"git",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Terunori Kawai/Desktop/nori/Evermemo"
+	],
+	"file_history":
+	[
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/app.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/test2.html",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/js/util/ControlData.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/js/MemoAction.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/jsx/app.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/css/memoer.css",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/jsx/HorizonMenu.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/package.json",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/lib/crud.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/jsx/ContentEditable.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/karma/spec/ContentEditableSpec.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/jsx/bundle2.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/jsx/InputMultiLine.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/karma.conf.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/jsx/Toolbar.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/js/MemoStore.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/lib/routes.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/jsx/ContentEditableLine.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/karma/spec/InputLineSpec.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/README.md",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/.gitignore",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/npm-debug.log",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/test/index.html",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/jsx/InputLine.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/jsx/memoer.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/lib/process.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/test/range.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/range.html",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/node_modules/karma/node_modules/http-proxy/node_modules/colors/example.html",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/test/js.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/jsx/InputDataLine.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/jsx/CurrentTime.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/js/MemoStore_b.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/memoer.sublime-workspace",
+		"/C/Users/Terunori Kawai/Desktop/workspace/flux/public/jsx/bundle.js",
+		"/C/Users/Terunori Kawai/Desktop/workspace/flux/app.js",
+		"/C/Users/Terunori Kawai/Desktop/workspace/flux/package.json",
+		"/C/Users/Terunori Kawai/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Terunori Kawai/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Terunori Kawai/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Terunori Kawai/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Terunori Kawai/Desktop/workspace/flux/public/app.html",
+		"/C/Users/Terunori Kawai/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Terunori Kawai/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Terunori Kawai/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Terunori Kawai/Desktop/workspace/flux/lib/routes.js",
+		"/C/Users/Terunori Kawai/Desktop/workspace/flux/lib/crud.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/jsx/button.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/js/memoer.app.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/js/memoer.collection.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/js/momer.router.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/js/memoer.model.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/js/memoerCollection.js",
+		"/C/Users/Terunori Kawai/Documents/dev-memoer/memoer/public/test.html",
+		"/C/Users/Terunori Kawai/AppData/Roaming/Sublime Text 3/Packages/WakaTime/WakaTime.sublime-settings",
+		"/C/Users/Terunori Kawai/Desktop/test_memoer.bat",
+		"/C/Users/Terunori Kawai/Desktop/watch_memoer.bat",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/jsx/ContentEditable.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/test2.html",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/css/memoer.css",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/test/js.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/test/css.css",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/test/index.html",
+		"/C/Users/Terunori Kawai/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Terunori Kawai/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
+		"/C/Users/Terunori Kawai/Documents/memoer/karma.conf.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/jsx/InputLine.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/karma/spec/InputLineSpec.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/karma/spec/ContentEditableSpec.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/package.json",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/test.html",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/jsx/hello2.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/jsx/bundle.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/jsx/hoge.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/jsx/hello.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/karma/spec/helloWorldSpec.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/jsx/MemoTitle.js",
+		"/C/Users/Terunori Kawai/Desktop/mongo_start.bat",
+		"/C/Users/Terunori Kawai/Desktop/dev_memoer.bat",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/jsx/bundle2.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/node_modules/karma-browserify/README.md",
+		"/C/Users/Terunori Kawai/Documents/memoer/npm-debug.log",
+		"/C/Users/Terunori Kawai/Documents/memoer/node_modules/jasmine/package.json",
+		"/C/Users/Terunori Kawai/Documents/memoer/karma/karma.conf.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/karma/spec/clickMeSpec.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/favicon.ico",
+		"/C/Users/Terunori Kawai/Documents/memoer/bundle.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/jsx/app.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/jsx/clickme.js",
+		"/C/Users/Terunori Kawai/Documents/memoer/README.md",
+		"/C/Users/Terunori Kawai/Documents/memoer/public/index.html",
+		"/C/Users/Terunori Kawai/Desktop/memoer/app.js",
+		"/C/Users/Terunori Kawai/Desktop/memoer/package.json",
+		"/C/Users/Terunori Kawai/Desktop/react-0.13.3/examples/basic/index.html",
+		"/C/Users/Terunori Kawai/Desktop/memoer/public/js/lib/react.js",
+		"/C/Users/Terunori Kawai/Desktop/memoer/lib/routes.js",
+		"/C/Users/Terunori Kawai/Desktop/memoer/lib/crud.js",
+		"/C/Users/Terunori Kawai/Desktop/memoer/node_modules/mongodb/index.js",
+		"/C/Users/Terunori Kawai/Desktop/memoer/node_modules/mongodb/lib/mongo_client.js",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/package.json",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/node_modules/multer/index.js",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/app.js",
+		"/C/Users/Terunori Kawai/AppData/Roaming/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/public/js/article.app.js",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/public/js/utility.js",
+		"/C/Users/Terunori Kawai/Downloads/backbone.paginator-master/backbone.paginator-master/api/output/Backbone.PageableCollection.js",
+		"/C/Users/Terunori Kawai/Downloads/backbone.paginator-master/backbone.paginator-master/api/extjs/ext-all.js",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/lib/crud.js",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/lib/routes.js",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/public/js/article.collection.js",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/public/lib/article.collection.js",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/public/article.collection.js",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/public/js/lib/backbone.js",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/public/knowledge.html",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/public/index.html",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/public/css/article.css",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/public/js/article.view.js",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/public/js/article.model.js",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/public/css/bootstrap-responsive.css",
+		"/C/Users/Terunori Kawai/Desktop/todomvc/examples/backbone/bower.json",
+		"/C/Users/Terunori Kawai/Desktop/todomvc/examples/backbone/readme.md",
+		"/C/Users/Terunori Kawai/Desktop/knowledge/public/knowlege.html",
+		"/C/Users/Terunori Kawai/Desktop/knowlege/public/js/knowlege.js",
+		"/C/Users/Terunori Kawai/Desktop/knowlege/knowlege.sublime-project",
+		"/C/Users/Terunori Kawai/Desktop/knowlege/app.js",
+		"/C/Users/Terunori Kawai/Desktop/knowlege/socket.html",
+		"/C/Users/Terunori Kawai/Desktop/knowlege/socket.js",
+		"/C/Users/Terunori Kawai/Desktop/knowlege/public/knowlege.html"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"enter_flg",
+			"{/*\ntest",
+			"test",
+			"ContentEditableLine",
+			"classes",
+			"\n	",
+			"onChange",
+			"constans",
+			"5",
+			"joe@example.com",
+			"a",
+			"3",
+			"tab",
+			"5",
+			":",
+			"5",
+			"ctrl+e",
+			"cntrl+e",
+			"ctrl+e",
+			"tab",
+			"ctrl+e",
+			"	",
+			"title",
+			"	",
+			"\\t",
+			"adons",
+			"27017",
+			"DEFAULT_PORT",
+			"search",
+			"show-detail-id",
+			"article-edit",
+			"create",
+			"article-edit-button",
+			"article-data",
+			"showDetail",
+			"inputForm",
+			"input-",
+			"inputForm",
+			"hidden",
+			"trriger",
+			"inputForm",
+			"article-data",
+			"hidden",
+			"knowledge",
+			"stats-template",
+			"				<",
+			"\n			",
+			"},\n",
+			", ",
+			"stats-template",
+			"meta",
+			">",
+			"makeSubTag",
+			"setSubArticle",
+			"onAddSubArticle",
+			"setSubArticle",
+			"setArticle_url_map",
+			"createArticle",
+			"createArticle_url_map",
+			"main_form",
+			"onCreateMainArticle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"constants",
+			"5",
+			"     ",
+			"    ",
+			"editForm",
+			"edit-",
+			"editForm",
+			"showDetail"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 95.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "evermemo.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Terunori Kawai\\Desktop\\nori\\ekoufu\\overlook.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
