@@ -1,0 +1,16 @@
+.toolbar {
+  @include clearfix
+  &__title {
+  	float: left;
+  	width: $Toolbar-title-width;
+  }
+  &__link {
+  	text-decoration: none;
+  	color: $Toolbar-title-color;
+  }
+  &__menu {
+  	float: none;
+  	width: auto;
+  	margin-left: $Toolbar-title-width;
+  }
+}

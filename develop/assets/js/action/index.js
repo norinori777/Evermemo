@@ -1,4 +1,4 @@
-import ControlData from '../util/ControlData.js'
+import ControlData from '../utility/ControlData.js'
 
 const constants = {
   ADD_MEMO: "ADD_MEMO",
@@ -6,12 +6,12 @@ const constants = {
   UPDATE_TITLE: "UPDATE_TITLE"
 }
 
-Let updateMemo = (data) => {
-  data.dispatch({type:constants.UPDATE_MEMO}, momo: data.memo)
+let updateMemo = (data) => {
+  data.dispatch({type:constants.UPDATE_MEMO, momo: data.memo})
 }
 
 let updateTitle = (data) => {
-  data.dispatch({type:constants.UPDATE_TITLE}, title: data.title)
+  data.dispatch({type:constants.UPDATE_TITLE, title: data.title})
 }
 
 let addMemo = (data) => {
@@ -20,7 +20,7 @@ let addMemo = (data) => {
     false,
     data,
 	(inLineData) => {
-      data.dispatch({type:constants.ADD_MEMO)
+      data.dispatch({type:constants.ADD_MEMO})
     }
   )
 }

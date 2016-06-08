@@ -6,22 +6,23 @@ const constants = {
 
 function memo(state = {},	action){
   switch(action.type) {
-    case contstans.UPDATE_MEMO
+    case constants.UPDATE_TITLE:
       return Object.assign({}, state, {
       	title: action.title
       })
-    case constants.UPDATE_MEMO
+    case constants.UPDATE_MEMO:
+      state.memoes[action.memo.no - 1] = {
+        no: action.memo.no,
+        value: action.memo.value
+      }
       return Object.assign({}, state, {
-      	memoes[action.memo.no - 1] = {
-          no: action.memo.no,
-      	  value: action.memo.value
-      	}
+        data: state.memoes
       })
-    case constants.ADD_MEMO
+    case constants.ADD_MEMO:
       return Object.assign({}, state, {
       	title: '',
-      	memoes = [],
-      	line = 1,
+      	memoes: [],
+      	line: 1
       })
     default:
       return state;
